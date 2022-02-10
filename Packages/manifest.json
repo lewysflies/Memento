@@ -5,9 +5,11 @@
     "com.unity.analytics": "3.3.2",
     "com.unity.package-manager-ui": "2.1.2",
     "com.unity.purchasing": "2.0.6",
+    "com.unity.render-pipelines.lightweight": "5.7.2",
+    "com.unity.shadergraph": "5.7.2",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.0.0",
-    "com.unity.xr.oculus.android": "1.38.4",
+    "com.unity.xr.oculus.android": "1.38.6",
     "com.unity.xr.oculus.standalone": "1.38.4",
     "com.unity.xr.openvr.standalone": "1.0.5",
     "com.unity.modules.ai": "1.0.0",
@@ -43,7 +45,7 @@
   },
   "lock": {
     "com.liminal.sdk": {
-      "hash": "18dbd62b37322d4aeb506a2c1c67349e6e54a4b3",
+      "hash": "10478bc453a502c4a79ff0ef8467908ecd69b5fb",
       "revision": "develop"
     }
   }
